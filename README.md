@@ -2,7 +2,7 @@
 
 Professional public website for merchant verification and game information.
 
-Support email: ikromjonovizzatbek030603@gmail.com
+Support email: iim.services.g@gmail.com
 
 Files:
 - index.html
